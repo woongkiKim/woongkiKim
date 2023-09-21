@@ -83,7 +83,8 @@
 
 ### 여보세요? 나야 거기 잘 지내니? 🤙
 
-<img src="https://firebasestorage.googleapis.com/v0/b/test-d8760.appspot.com/o/ezgif.com-video-to-gif.gif?alt=media&token=cd930f4a-5b34-4311-a782-a3483da101be" alt="임창정" />
+<img src="https://firebasestorage.googleapis.com/v0/b/test-d8760.appspot.com/o/ezgif.com-video-to-gif.gif?alt=media&token=cd930f4a-5b34-4311-a782-a3483da101be&nocache=1" alt="임창정" />
+
 
 <br/>
 
