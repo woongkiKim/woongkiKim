@@ -1,7 +1,7 @@
 ![header](<https://capsule-render.vercel.app/api?&color=4DD9F7&type=Waving=000000&height=150&section=header&text=(ㅇ____ㅇ)==3&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55>)
 
 <h1 align="center">Hi there👋, I'm Unggi!</h1>
-<h3 align="center">A developer from Korea. </h3>
+<h3 align="center">A developer from Korea. and work at Seedbox. :) </h3>
 <h3 align="center">After working as a data analyst for 4 years, </h3> 
 <h3 align="center">I've decided to try my hand at web development, and I hope you enjoy it.</h3>
 
