@@ -83,9 +83,7 @@
 
 ### 여보세요? 나야 거기 잘 지내니? 🤙
 
-<video controls width="480" height="360">
-  <source src="https://firebasestorage.googleapis.com/v0/b/test-d8760.appspot.com/o/KakaoTalk_Video_2023-09-21-16-40-12.mp4?alt=media&token=87c81c30-426b-4e1f-aeb1-3b46f9976faa" type="video/mp4">
-</video>
+<img src="https://firebasestorage.googleapis.com/v0/b/test-d8760.appspot.com/o/ezgif.com-video-to-gif.gif?alt=media&token=cd930f4a-5b34-4311-a782-a3483da101be" alt="임창정" />
 
 <br/>
 
